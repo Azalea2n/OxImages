@@ -82,4 +82,6 @@ Proprietary Software - All Rights Reserved. Copyright © Azalea2n 2023. No part 
 
 - Developer: Azalea2n
 
+![icon](https://github.com/user-attachments/assets/2bf78f6a-090a-448a-9837-a28ec78deae8)
+
 Terima kasih telah menggunakan oximages!
