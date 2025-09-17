@@ -1,5 +1,12 @@
 # oximages
 
+## GitHub Topics
+[![windows](https://img.shields.io/badge/Windows-10%2B-blue)](https://github.com/topics/windows)
+[![electron](https://img.shields.io/badge/Electron-Desktop-yellow)](https://github.com/topics/electron)
+[![image-processing](https://img.shields.io/badge/Image%20Processing-Sharp-green)](https://github.com/topics/image-processing)
+[![image-converter](https://img.shields.io/badge/Image%20Converter-ICO%20Support-orange)](https://github.com/topics/image-converter)
+[![desktop-app](https://img.shields.io/badge/Desktop%20App-Cross%20Platform-purple)](https://github.com/topics/desktop-app)
+
 oximages adalah aplikasi desktop berbasis Electron untuk mengonversi, mengelola, dan mengedit gambar sederhana. Aplikasi ini dibangun menggunakan Electron dan library Sharp untuk pemrosesan gambar yang efisien.
 
 ## Fitur Utama
@@ -94,3 +101,4 @@ Terima kasih telah menggunakan oximages!
 [![desktop-app](https://img.shields.io/badge/Desktop%20App-Cross%20Platform-purple)](https://github.com/topics/desktop-app)
 
 Tags: windows, electron, image-processing, image-converter, desktop-app, ico, sharp, javascript
+
