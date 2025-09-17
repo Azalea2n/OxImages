@@ -92,13 +92,3 @@ Proprietary Software - All Rights Reserved. Copyright © Azalea2n 2023. No part 
 ![icon](https://github.com/user-attachments/assets/2bf78f6a-090a-448a-9837-a28ec78deae8)
 
 Terima kasih telah menggunakan oximages!
-
-## GitHub Topics
-[![windows](https://img.shields.io/badge/Windows-10%2B-blue)](https://github.com/topics/windows)
-[![electron](https://img.shields.io/badge/Electron-Desktop-yellow)](https://github.com/topics/electron)
-[![image-processing](https://img.shields.io/badge/Image%20Processing-Sharp-green)](https://github.com/topics/image-processing)
-[![image-converter](https://img.shields.io/badge/Image%20Converter-ICO%20Support-orange)](https://github.com/topics/image-converter)
-[![desktop-app](https://img.shields.io/badge/Desktop%20App-Cross%20Platform-purple)](https://github.com/topics/desktop-app)
-
-Tags: windows, electron, image-processing, image-converter, desktop-app, ico, sharp, javascript
-
