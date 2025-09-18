@@ -7,8 +7,7 @@
 [![image-converter](https://img.shields.io/badge/Image%20Converter-ICO%20Support-orange)](https://github.com/topics/image-converter)
 [![desktop-app](https://img.shields.io/badge/Desktop%20App-Cross%20Platform-purple)](https://github.com/topics/desktop-app)
 
-oximages adalah aplikasi desktop berbasis Electron untuk mengonversi, mengelola, dan mengedit gambar sederhana. Aplikasi ini dibangun menggunakan Electron dan library Sharp untuk pemrosesan gambar yang efisien.
-
+oximages adalah aplikasi desktop berbasis Electron untuk mengonversi, mengelola, dan mengedit gambar sederhana.
 ## Fitur Utama
 
 - **Buka File atau Folder**: Dukung pembukaan file gambar individu atau seluruh folder.
@@ -92,3 +91,4 @@ Proprietary Software - All Rights Reserved. Copyright © Azalea2n 2023. No part 
 ![icon](https://github.com/user-attachments/assets/2bf78f6a-090a-448a-9837-a28ec78deae8)
 
 Terima kasih telah menggunakan oximages!
+
